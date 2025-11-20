@@ -58,9 +58,6 @@ git clone https://github.com/your-username/EV-Charging-Station-Utilization-Analy
 [https://github.com/Rajnandini-0804/EV-Charging-Station-Utilization-Analysis/blob/main/ev_charging_station_dataset.csv](https://github.com/Rajnandini-0804/EV-Charging-Station-Utilization-Analysis/blob/main/ev_charging_station_dataset.csv):**
 [https://github.com/Rajnandini-0804/EV-Charging-Station-Utilization-Analysis/blob/main/EV%20Charging%20Station%20Utilization%20Analysis%20(1).ipynb](https://github.com/Rajnandini-0804/EV-Charging-Station-Utilization-Analysis/blob/main/EV%20Charging%20Station%20Utilization%20Analysis%20%281%29.ipynb)
 
-* Create a new GitHub repository.
-* Upload the `.ipynb` file and this README.
-* Add a `data/` folder if you want to include your dataset.
 
 ---
 
