@@ -40,7 +40,8 @@ This project analyzes the utilization patterns of EV charging stations. It focus
 1. Clone the repo:
 
 ```
-git clone https://github.com/your-username/EV-Charging-Station-Utilization-Analysis.git
+git clone https://github.com/Rajnandini-0804/EV-Charging-Station-Utilization-Analysis.git
+
 ```
 
 2. Open the Jupyter Notebook.
