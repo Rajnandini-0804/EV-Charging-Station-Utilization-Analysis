@@ -27,11 +27,69 @@ This project analyzes the utilization patterns of EV charging stations. It focus
 
 ## 📊 Key Insights
 
-* Hour-wise usage trends
-* Station-wise session count
-* Queue analysis
-* Peak demand periods
-* Recommended stations for capacity expansion
+1️⃣ Peak Usage Hours
+
+Charging stations show the highest demand during evening hours (6 PM – 9 PM).
+This indicates that users prefer charging after work hours, leading to heavy congestion.
+
+2️⃣ Station-Wise Utilization
+
+Some stations consistently show higher session counts and longer queues, meaning they are heavily used.
+Such stations require additional charging points or capacity expansion.
+
+3️⃣ Queue Length Patterns
+
+Stations with long queue lengths indicate:
+
+High vehicle traffic
+
+Insufficient number of chargers
+
+Delays in user charging time
+These stations need priority attention.
+
+4️⃣ Session Duration Insights
+
+Average session duration helps understand:
+
+How long users spend at charging points
+
+Which time slots take longer processing
+Stations with longer session durations face more bottlenecks.
+
+5️⃣ Hour-wise Trend Analysis
+
+Hourly data shows clear usage patterns:
+
+Morning hours have low demand
+
+Midday increases slightly
+
+Evenings show peak load
+This pattern helps plan staffing and maintenance.
+
+6️⃣ Recommended Locations for New Chargers
+
+Based on queue length + peak hours + session count, certain stations show high pressure score, making them ideal candidates for:
+
+New charging points
+
+Station expansion
+
+Improved infrastructure
+
+7️⃣ Real-time Insights for Decision Making
+
+The analysis helps identify:
+
+Busy stations
+
+Idle stations
+
+Underutilized locations
+
+Demand forecasting
+This directly supports operational optimization and better resource allocation.
 
 ---
 
